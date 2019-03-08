@@ -4,7 +4,7 @@ This is a simple script written in python in order to create a website with list
 Installation:
 create a folder in your system
 Open terminal or command prompt and go to that created folder
-give command: Clone git https://github.com/soumitasardar/movie_trailer.git
+give command: git clone https://github.com/soumitasardar/movie_trailer.git
 To run this project:
 Python movies_details
 
