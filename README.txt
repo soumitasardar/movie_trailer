@@ -2,8 +2,10 @@
 This is a simple script written in python in order to create a website with list of movies along with its poster and trailer.
 
 Installation:
-Clone https://github.com/soumitasardar/movie_trailer.git in a folder
-To run this project: open the terminal and go inside the folder and type:
+create a folder in your system
+Open terminal or command prompt and go to that created folder
+give command: Clone git https://github.com/soumitasardar/movie_trailer.git
+To run this project:
 Python movies_details
 
 Code description:
