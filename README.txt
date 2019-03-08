@@ -1,5 +1,6 @@
 				Movie Trailer website
 This is a simple script written in python in order to create a website with list of movies along with its poster and trailer.
+
 Installation:
 Clone https://github.com/soumitasardar/movie_trailer.git in a folder
 To run this project: open the terminal and go inside the folder and type:
@@ -14,7 +15,7 @@ Code description:
 	Once done, use a different movie_trailer.py file by calling the constructor media.Movie() to instantiate movie objects or instances.
 * For that, let's say 1st instance of movie we create by first importing the class .py file name and calling the constructor media.Movie() and providing all the necessary information regarding that movie sequentially as mentioned in the Python Class.
 * Similarly, various numbers of instances can be created with many movie details.
-	After creating the instances of movies, now it’s time to show this all in a website.
+	After creating the instances of movies, now itâ€™s time to show this all in a website.
 * For that, either you can create your own .py file by including HTML and use the trailer link provided in every movie OR you can use fresh_tomatoes .py file provided here and save that it the same folder where your project is saved.
 * After this, create a list of movies which you want to display in the website.
 * You can use fresh_tomatoes file and the function "open_movies_trailer()" inside it.
