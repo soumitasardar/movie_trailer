@@ -1,7 +1,10 @@
 import webbrowser
 
 class Movie():
-	def __init__(self,movie_title,movie_poster,movie_storyline,movie_trailer_url):
+	'''
+	Created a structure in order to store the movie details
+	'''
+	def __init__(self,movie_title,movie_poster,movie_storyline,movie_trailer_url):   #self is used for the instance that we are going to create
 		self.title = movie_title
 		self.poster_image_url = movie_poster
 		self.storyline = movie_storyline
