@@ -19,8 +19,14 @@ class Movie():
 
 
 def show_trailer(self):
+    '''
+    This function is for displaying the trailer for a selected movie
+    '''
     webbrowser.open(self.trailer_youtube_url)
 
 
 def show_poster(self):
+    '''
+    This function is for displaying the poster for a movie
+    '''
     return webbrowser.open(self.poster)
