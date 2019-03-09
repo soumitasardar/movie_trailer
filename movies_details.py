@@ -27,5 +27,4 @@ ratatouille = media.Movie("Ratatouille",
 # we have used fresh_tomatoes.py file
 
 movie_list = [avatar, lagaan, ratatouille]
-website = fresh_tomatoes.open_movies_page(movie_list)
-print website
+fresh_tomatoes.open_movies_page(movie_list)
