@@ -29,4 +29,4 @@ def show_poster(self):
     '''
     This function is for displaying the poster for a movie
     '''
-    return webbrowser.open(self.poster)
+    webbrowser.open(self.poster)
